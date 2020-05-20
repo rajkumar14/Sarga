@@ -58,7 +58,7 @@ heroku==0.1.4
 hkdf==0.0.3
 html5lib==0.9999999
 httpie==0.9.9
-httplib2==0.8
+httplib2==0.18.0
 humanize==0.5.1
 idna==2.1
 incremental==16.10.1
