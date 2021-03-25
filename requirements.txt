@@ -138,7 +138,7 @@ python-http-client==2.2.1
 python-mimeparse==1.5.2
 pytz==2016.4
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==15.3.0
 qtconsole==4.2.1
 reportlab==3.0
