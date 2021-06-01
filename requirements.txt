@@ -173,7 +173,7 @@ Twisted-Web==13.2.0
 txaio==2.5.2
 unity-lens-photos==1.0
 uritemplate==3.0.0
-urllib3==1.7.1
+urllib3==1.26.5
 videodownloader==2.0.0
 virtualenv==15.0.3
 wcwidth==0.1.7
