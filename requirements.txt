@@ -78,7 +78,7 @@ jupyter-client==4.4.0
 jupyter-console==5.0.0
 jupyter-core==4.1.0
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.5
 magic-wormhole==0.8.2
 Markdown==2.6.7
 MarkupSafe==0.23
