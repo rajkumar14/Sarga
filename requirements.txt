@@ -56,7 +56,7 @@ graphviz==0.5.1
 gunicorn==19.7.1
 heroku==0.1.4
 hkdf==0.0.3
-html5lib==0.9999999
+html5lib==0.99999999
 httpie==0.9.9
 httplib2==0.8
 humanize==0.5.1
