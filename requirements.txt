@@ -90,7 +90,7 @@ nbformat==4.0.1
 ndg-httpsclient==0.4.2
 netifaces==0.10.6
 notebook==4.2.1
-numpy==1.11.1
+numpy==1.22.0
 oauthlib==0.6.1
 oneconf==0.3.7.14.4.1
 openapi-codec==1.2.1
