@@ -141,7 +141,7 @@ pyxdg==0.25
 PyYAML==3.12
 pyzmq==15.3.0
 qtconsole==4.2.1
-reportlab==3.0
+reportlab==3.5.55
 requestbuilder==0.1.0b1
 requests==2.7.0
 scandir==1.5
